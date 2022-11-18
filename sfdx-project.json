@@ -10,5 +10,8 @@
     ],
     "namespace": "jlavonni",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "50.0"
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "avonni": "0Ho8a000000XZIvCAO"
+    }
 }
